@@ -19,10 +19,6 @@
 ![](https://streak-stats.demolab.com/?user=zhengyang3552&theme=tokyonight&hide_border=true)
 
 
-# 🏆 GitHub 成就徽章
-![](https://github-profile-trophy.vercel.app/?username=zhengyang3552&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
-
 # 🌐 社交媒体
 [![](https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto)](https://discord.com/users/1253370910304370748)
 [![](https://img.shields.io/badge/bilibili-%2300A1D6?style=for-the-badge&logo=bilibili&logoColor=white&logoSize=auto)](https://space.bilibili.com/646970898)
